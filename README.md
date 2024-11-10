@@ -8,5 +8,7 @@ An Image Caption Generator App
 - The results were acceptable with the BLEU score >.5.
 - Developed a UI using Streamlit which takes Images as input and returns the caption.
 
+# For smooth running of app.py server as frontend, here's the trained model just download and run the server:
+https://drive.google.com/file/d/1ktDxSzSlJ8i6_d8kHXgUqJiKbnJGj9DP/view?usp=sharing
 
   This is an complete project involving NLP, Image-Processing, Frontend all at once.
