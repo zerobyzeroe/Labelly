@@ -11,4 +11,6 @@ An Image Caption Generator App
  For smooth running of app.py server as frontend, here's the trained model just download and run the server:
 https://drive.google.com/file/d/1ktDxSzSlJ8i6_d8kHXgUqJiKbnJGj9DP/view?usp=sharing
 
+GitHub upload restrictions didn't allow to upload this directly on GitHub.
+
   This is an complete project involving NLP, Image-Processing, Frontend all at once.
